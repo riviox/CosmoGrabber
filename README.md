@@ -1,2 +1,3 @@
 # CosmoGrabber
- Just a normal ip grabber ;)
+## Features
+- Open source
